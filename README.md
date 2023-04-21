@@ -7,13 +7,13 @@ CRM (Customer Relationship Management) Web Api
 Mini project for completed virtual internship program from IDX Partener. The Web Api application System CRM (Customer Relationship Management)
 
 ## Features
-GET /api/customers - Get All Customers
-GET /api/customers/{id} - Get Spesific Customer By Id
-POST /api/customers - Add New Customer
-PUT /api/customers/{id} - Update Customer
-DELETE /api/customers/{id} - Delete customer
-GET /api/todos - Get Todos data from External API as Asynchronous
-GET /api/todos/{id} - Get Specific Todo by id as synchronous
+- GET /api/customers - Get All Customers
+- GET /api/customers/{id} - Get Spesific Customer By Id
+- POST /api/customers - Add New Customer
+- PUT /api/customers/{id} - Update Customer
+- DELETE /api/customers/{id} - Delete customer
+- GET /api/todos - Get Todos data from External API as Asynchronous
+- GET /api/todos/{id} - Get Specific Todo by id as synchronous
 
 
 ## Technology
